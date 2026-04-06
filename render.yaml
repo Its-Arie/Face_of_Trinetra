@@ -6,4 +6,4 @@ services:
     publishDir: dist
     envVars:
       - key: NODE_VERSION
-        value: 18
+        value: 20
