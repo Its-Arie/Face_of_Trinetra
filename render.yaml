@@ -1,0 +1,9 @@
+services:
+  - type: static_site
+    name: face-of-trinetra
+    source: .
+    buildCommand: npm run build
+    publishDir: dist
+    envVars:
+      - key: NODE_VERSION
+        value: 18
