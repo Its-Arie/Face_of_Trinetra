@@ -334,8 +334,8 @@ export function Home() {
           <a href="mailto:support@trinetra.local" className="hover:text-slate-900 dark:hover:text-white transition-colors">Contact</a>
         </div>
         <div className="text-center md:text-right">
-          <p>© 2026 Group 24 · Sister Nivedita University</p>
-          <p className="mt-1">Supervised by Dr. Alamgir Sardar</p>
+          <p>© 2026 Group 24</p>
+          <p className="mt-1">Sister Nivedita University</p>
         </div>
       </footer>
     </div>
